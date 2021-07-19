@@ -1,6 +1,6 @@
 ##  Set working directory
 setwd("---")
-
+getwd()
 ##  Load packages
 ##  Uncomment below lines if not already installed!
 ##  install.packages("fastDummies")
